@@ -1,4 +1,5 @@
 package species;
+
 public class Cat implements Mammal {
     String name;
 

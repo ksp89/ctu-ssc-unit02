@@ -1,4 +1,5 @@
 package species;
+
 public class MammalFactory {
     
     public Mammal getMammal(String mammalType){

@@ -1,4 +1,5 @@
 package species;
+
 public class Human implements Mammal {
     String name;
 
